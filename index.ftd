@@ -1,1 +1,9 @@
--- ftd.text: Hello World, Jaldi Whaha se Hato!  
+-- ftd.text: Hello World, Jaldi Whaha se Hato!
+
+-- ftd.document: My Title
+description: My Description
+og-image: https://www.fifthtry.com/assets/images/logo-fifthtry.svg
+
+<other elements>
+
+-- end: ftd.document
